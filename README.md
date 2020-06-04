@@ -1,5 +1,7 @@
 # Study Kasus NodeJS
 
+API CRUD, Express, Mongoose, BodyParser, Validator, Bcrypt.
+
 **POST**
 <br>
 <p align="center"><img src="screen/post.png" alt="post" width="700"/></div></p>
